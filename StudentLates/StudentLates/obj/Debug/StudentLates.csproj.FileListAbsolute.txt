@@ -1,0 +1,14 @@
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.csproj.SuggestedBindingRedirects.cache
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.Form1.resources
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.Properties.Resources.resources
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.csproj.GenerateResource.cache
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.csproj.CoreCompileInputs.cache
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.csproj.AssemblyReference.cache
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.Form2.resources
+Z:\225071\CompSci\StudentLates\StudentLates\bin\Debug\StudentLates.exe.config
+Z:\225071\CompSci\StudentLates\StudentLates\bin\Debug\StudentLates.exe
+Z:\225071\CompSci\StudentLates\StudentLates\bin\Debug\StudentLates.pdb
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.exe
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.pdb
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.Form3.resources
+Z:\225071\CompSci\StudentLates\StudentLates\obj\Debug\StudentLates.frmStudentLatesV2.resources
